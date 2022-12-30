@@ -1,0 +1,12 @@
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/bin/Debug/net6.0/ClearBank.DeveloperTest.deps.json
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/bin/Debug/net6.0/ClearBank.DeveloperTest.dll
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/bin/Debug/net6.0/ClearBank.DeveloperTest.pdb
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/ClearBank.DeveloperTest.csproj.AssemblyReference.cache
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/ClearBank.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/ClearBank.DeveloperTest.AssemblyInfoInputs.cache
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/ClearBank.DeveloperTest.AssemblyInfo.cs
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/ClearBank.DeveloperTest.dll
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/refint/ClearBank.DeveloperTest.dll
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/ClearBank.DeveloperTest.pdb
+/home/iza/Documents/clearbank/ClearBank.DeveloperTest/obj/Debug/net6.0/ref/ClearBank.DeveloperTest.dll
